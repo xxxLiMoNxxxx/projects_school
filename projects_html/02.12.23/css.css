@@ -1,0 +1,54 @@
+.winter {
+    list-style-image: url(icons/winter_16.png);
+}
+.spring {
+    list-style-image: url(icons/spring_16.png);
+}
+.summer {
+    list-style-image: url(icons/summer_16.png);
+}
+.autumn {
+    list-style-image: url(icons/autumn_16.png);
+}
+.year {
+    list-style-type: none;
+}
+
+.start {
+    list-style-type: upper-roman;
+    color: blue;
+}
+::marker {
+    color: black;
+}
+
+.abc {
+    list-style-type: lower-alpha;
+}
+.background-title {
+    background-color: rgb(2, 81, 67);
+    width: 900px;
+    padding: 5px;
+}
+.background-text {
+    width: 900px;
+    padding: 5px;
+    background-color: rgb(0, 120, 116);
+}
+.texts {
+    margin: 20px;
+}
+.title {
+    margin-left: 50px;
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    color: white;
+}
+.text {
+    margin-left: 10px;
+    color: white;
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    font-family: 'Poppins', sans-serif; 
+}
+sup {
+    color:coral;
+}
