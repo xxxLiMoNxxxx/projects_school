@@ -49,7 +49,6 @@ root.resizable(False, False)
 root.title("Застосунок")
 root.configure(bg="#f5da56")
 
-
 img_money = PhotoImage(file='projects_python/taxi/money.png')
 img_card = PhotoImage(file='projects_python/taxi/card.png')
 
