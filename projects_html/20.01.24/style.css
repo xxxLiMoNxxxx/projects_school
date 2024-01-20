@@ -1,0 +1,24 @@
+* {
+    color: white;
+}
+header {
+    background-color: rgb(201, 4, 201);
+
+}
+header h2 {
+    padding: 60px 40px;
+}
+.menu {
+    background-color: purple;
+}
+main h2 {
+    padding: 20px 40px;
+}
+.all-blocks {
+    background-color: plum;
+    float: left;
+    width: 175px;
+}
+.important-block {
+    background-color: plum;
+}
