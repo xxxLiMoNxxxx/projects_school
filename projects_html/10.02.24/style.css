@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    gap: 50px;
+}
+.content-wrapper {
+    border-radius: 10px;
+    background: rgb(49, 61, 84);
+    width: 100%;
+    margin-bottom: 40px;
+}
+img {
+    height: auto;
+    border-radius: 10px 10px 0 0;
+    width: 100%;
+}
+.content {
+    padding: 15px;
+}
+.column {
+    width: 33%;
+}
